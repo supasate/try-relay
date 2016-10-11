@@ -1,0 +1,19 @@
+{
+  "name": "try-relay",
+  "version": "1.0.0",
+  "description": "Try playing with Relay",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/supasate/try-relay.git"
+  },
+  "author": "Supasate Choochaisri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/supasate/try-relay/issues"
+  },
+  "homepage": "https://github.com/supasate/try-relay#readme"
+}
